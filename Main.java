@@ -6,6 +6,7 @@ public class Main {
         System.out.println("Bubble Sort - with commentary!");
         System.out.println("Ascending order, starting bubble at the last index.\n");
 
+	//feel free to change the elements in the array!
         int[] ary = { 10,9,8,7,6,5,4,3,2,1,0,-1 };
 
         System.out.println("We just created int[] ary which can hold " + ary.length + " elements.");
